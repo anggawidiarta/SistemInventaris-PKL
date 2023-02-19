@@ -1,5 +1,5 @@
 .DS_Store
-.txt
+*.txt
 
 application/cache/*
 !application/cache/index.html
